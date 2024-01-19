@@ -1,0 +1,130 @@
+body {
+    background-image: url(https://www.monsterhunter.com/world/images/common/bg_page.jpg);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+H1, p, figcaption, a, fieldset {
+    color: white;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+}
+
+
+Table.trailers {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+Table.news {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+Table.quiz {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    width: 60%;
+}
+
+.source {
+    text-align: left;
+    margin-left:20%;
+    margin-right: auto;
+}
+.image {
+    position: relative;
+    display: inline-block;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+.overlay {
+    background-color: rgb(15, 9, 0);
+    background-color: rgba(15, 9, 0, 0.8);
+    width: 35%;
+    top: 80%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px; 
+}
+
+.intro {
+    font-size: 80px;
+    font: bolder;
+    color: azure;
+
+}
+.image2 {
+    position: relative;
+    display: inline-block;
+}
+
+.image2 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+.overlay2 {
+    background-color: rgb(15, 9, 0);
+    background-color: rgba(15, 9, 0, 0.8);
+    width: 35%;
+    top: 80%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px; 
+}
+.lpara {
+    height: 50px;
+}
+
+.eco {
+    font-size: 80px;
+    font: bolder;
+    color: azure;
+}
+
+.image3 {
+    position: relative;
+    display: inline-block;
+}
+
+.image3 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+.overlay3 {
+    background-color: rgb(15, 9, 0);
+    background-color: rgba(15, 9, 0, 0.8);
+    width: 35%;
+    height: 30%;
+    top: 90%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px; 
+}
