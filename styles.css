@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://www.monsterhunter.com/world/images/common/bg_page.jpg);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+H1, p, figcaption, a, fieldset {
+    color: white;
+}
+
+h3 {
+    color: rgb(235, 134, 235);
+}
+
+h2 {
+    color:aqua;
+}
+
+legend {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+Table.trailers {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+Table.news {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+.source {
+    text-align: left;
+    margin-left:20%;
+    margin-right: auto;
+}
