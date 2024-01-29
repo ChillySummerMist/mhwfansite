@@ -22,6 +22,22 @@ button:hover {
     cursor: pointer
 }
 
+.event {
+    display: inline-block;
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    width: 200px;
+}
+.event:hover {
+    background-image: url(https://fextralife.com/wp-content/uploads/2018/10/Timberland-Troublemakers-min.jpg);
+    background-size: 100%;
+    color: gold;
+    border: 2px solid gold;
+    transform: scale(1.2);
+}
+
+/* eco basically refers to all the titles*/
 .eco {
     font-size: 80px;
     font: bolder;
