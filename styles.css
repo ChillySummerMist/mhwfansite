@@ -5,8 +5,13 @@ body {
     margin-right: auto;
 }
 
-H1, p, figcaption, a, fieldset {
+H1, p, figcaption, fieldset {
     color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none; 
 }
 
 h3 {
