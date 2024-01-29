@@ -128,3 +128,108 @@ Table.quiz {
     margin-right: auto;
     font-size: 20px; 
 }
+.biomes {
+    width: 80%;
+    height: 200px;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.forest {
+    display: inline-block;
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    width: 200px;
+    margin-left: 2%;
+    margin-top: 5%;
+}
+
+
+.forest:hover {
+    background-image: url(https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/monster-hunter-world-ancient-forest-location-information-300.jpg);
+    background-size: 100%;
+    color: green;
+    border: 2px solid green;
+    transform: scale(1.2);
+    
+}
+
+.wild {
+    display: inline-block;
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    width: 200px;
+    margin-left: 2%;
+    margin-top: 5%;
+}
+
+
+.wild:hover {
+    background-image: url(https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/monster-hunter-world-wildspire-waste-location-information-300.jpg);
+    background-size: 100%;
+    color: yellow;
+    border: 2px solid yellow;
+    transform: scale(1.2);
+}
+
+.coral {
+    display: inline-block;
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    width: 200px;
+    margin-left: 2%;
+    margin-top: 5%;
+}
+
+
+.coral:hover {
+    background-image: url(https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/coral-highland-monster-hunter-world-wiki-mhw-locations.jpg);
+    background-size: 100%;
+    color: purple;
+    border: 2px solid purple;
+    transform: scale(1.2);
+}
+
+.rotten {
+    display: inline-block;
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    width: 200px;
+    margin-left: 2%;
+    margin-top: 5%;
+}
+
+
+.rotten:hover {
+    background-image: url(https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rotten-vale-monster-hunter-world-wiki-mhw-location.jpg);
+    background-size: 100%;
+    color: brown;
+    border: 2px solid brown;
+    transform: scale(1.2);
+}
+
+.elder {
+    display: inline-block;
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    width: 200px;
+    margin-left: 2%;
+    margin-top: 5%;
+}
+
+
+.elder:hover {
+    background-image: url(https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/27164196_1586493168133037_8397341485490561181_o.jpg);
+    background-size: 100%;
+    color: blue;
+    border: 2px solid blue;
+    transform: scale(1.2);
+}
+
